@@ -1,5 +1,5 @@
 # rxandroidexamples
-A Collection of Examples of RxAndroid designed to convery a basic understanding of Rx and its uses on Android.
+An Example of RxAndroid & Retrofit designed to convery a basic understanding of Rx and its uses on Android.
 
 # Authors
 Jenu Prasad
